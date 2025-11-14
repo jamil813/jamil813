@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamil813
-- 👀 I’m interested in crypto mining
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on mining
+- 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me ...
 
 <!---
